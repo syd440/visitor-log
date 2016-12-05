@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="b7abc4014f6b2200995992918110c79d" sys_domain="global" table="x_snc_visitor_log_sf_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-05 12:56:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ffabc4014f6b2200995992918110c79d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_visitor_log_sf_task" name="x_snc_visitor_log_sf_task" sys_domain="global" view="Default view">b7abc4014f6b2200995992918110c79d</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_visitor_log_sf_task" sys_domain="global" view="Default view">37abc4014f6b2200995992918110c79a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-05 12:56:16</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-05 12:56:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77abc4014f6b2200995992918110c7c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_visitor_log_sf_task" name="x_snc_visitor_log_sf_task" sys_domain="global" view="Default view">b7abc4014f6b2200995992918110c79d</sys_ui_form>
+            <sys_ui_section caption="Manual" display_value="Manual" name="x_snc_visitor_log_sf_task" sys_domain="global" view="Default view">f7abc4014f6b2200995992918110c7c1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-05 12:56:17</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-05 12:56:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00bbc4014f6b2200995992918110c7e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_visitor_log_sf_task" name="x_snc_visitor_log_sf_task" sys_domain="global" view="Default view">b7abc4014f6b2200995992918110c79d</sys_ui_form>
+            <sys_ui_section caption="Automatic" display_value="Automatic" name="x_snc_visitor_log_sf_task" sys_domain="global" view="Default view">40bbc4014f6b2200995992918110c7d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-05 12:56:17</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-05 12:56:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4cbbc4014f6b2200995992918110c7f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_visitor_log_sf_task" name="x_snc_visitor_log_sf_task" sys_domain="global" view="Default view">b7abc4014f6b2200995992918110c79d</sys_ui_form>
+            <sys_ui_section caption="Field Controls" display_value="Field Controls" name="x_snc_visitor_log_sf_task" sys_domain="global" view="Default view">80bbc4014f6b2200995992918110c7f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-05 12:56:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_visitor_log_sf_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-05 12:56:16</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b7abc4014f6b2200995992918110c79d</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>x_snc_visitor_log_sf_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Visitor Log" source="x_snc_visitor_log">ef3b8c4d4f2b2200995992918110c74d</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Visitor Log">ef3b8c4d4f2b2200995992918110c74d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b7abc4014f6b2200995992918110c79d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-05 12:56:18</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

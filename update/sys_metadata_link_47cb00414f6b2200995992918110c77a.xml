@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>255bcc8d4f2b2200995992918110c708</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_group_has_role">
+    <sys_group_has_role action="INSERT_OR_UPDATE">
+        <granted_by/>
+        <group display_value="Visitor Log Assignment" name="Visitor Log Assignment">2d5bcc8d4f2b2200995992918110c702</group>
+        <inherits>true</inherits>
+        <role display_value="x_snc_visitor_log_agent" name="x_snc_visitor_log_agent">e94b088d4f2b2200995992918110c7d6</role>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-12-05 12:54:45</sys_created_on>
+        <sys_id>255bcc8d4f2b2200995992918110c708</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-12-05 12:54:45</sys_updated_on>
+    </sys_group_has_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-12-05 12:56:46</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>47cb00414f6b2200995992918110c77a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2016-12-05 12:54:45</sys_name>
+        <sys_package display_value="Visitor Log" source="x_snc_visitor_log">ef3b8c4d4f2b2200995992918110c74d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Visitor Log">ef3b8c4d4f2b2200995992918110c74d</sys_scope>
+        <sys_update_name>sys_metadata_link_47cb00414f6b2200995992918110c77a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-12-05 12:56:46</sys_updated_on>
+        <tablename>sys_group_has_role</tablename>
+    </sys_metadata_link>
+</record_update>

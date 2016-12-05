@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Visitor Log Geolocation">528b08cd4f2b2200995992918110c74b</category>
+        <order>1</order>
+        <property display_value="x_snc_visitor_log.rush.travel.buffer" name="x_snc_visitor_log.rush.travel.buffer">147b04cd4f2b2200995992918110c770</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-12-05 12:55:37</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>1e8b08cd4f2b2200995992918110c751</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_visitor_log.rush.travel.buffer.Visitor Log Geolocation</sys_name>
+        <sys_package display_value="Visitor Log" source="x_snc_visitor_log">ef3b8c4d4f2b2200995992918110c74d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Visitor Log">ef3b8c4d4f2b2200995992918110c74d</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_1e8b08cd4f2b2200995992918110c751</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-12-05 12:55:37</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>a4cb4c014f6b2200995992918110c710</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sm_config_module">
+    <sm_config_module action="INSERT_OR_UPDATE">
+        <app_name display_value="Visitor Log">40cb0c014f6b2200995992918110c763</app_name>
+        <aspect>service_catalog</aspect>
+        <associated_mobile_module/>
+        <associated_module display_value="Visitor Log Catalog">68cb4c014f6b2200995992918110c70d</associated_module>
+        <on>true</on>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-12-05 12:56:36</sys_created_on>
+        <sys_id>a4cb4c014f6b2200995992918110c710</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-12-05 12:56:36</sys_updated_on>
+    </sm_config_module>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-12-05 12:56:48</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>63cb40414f6b2200995992918110c704</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visitor Log</sys_name>
+        <sys_package display_value="Visitor Log" source="x_snc_visitor_log">ef3b8c4d4f2b2200995992918110c74d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Visitor Log">ef3b8c4d4f2b2200995992918110c74d</sys_scope>
+        <sys_update_name>sys_metadata_link_63cb40414f6b2200995992918110c704</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-12-05 12:56:48</sys_updated_on>
+        <tablename>sm_config_module</tablename>
+    </sys_metadata_link>
+</record_update>

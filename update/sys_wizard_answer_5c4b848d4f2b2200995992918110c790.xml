@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Visitor Log Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Visitor Log Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Create a new service order" name="Create a new service order">cb75fab1df322100dca6a5f59bf26332</question>
+        <roles>x_snc_visitor_log_initiator</roles>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-12-05 12:54:24</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>5c4b848d4f2b2200995992918110c790</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visitor Log Request</sys_name>
+        <sys_package display_value="Visitor Log" source="x_snc_visitor_log">ef3b8c4d4f2b2200995992918110c74d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Visitor Log">ef3b8c4d4f2b2200995992918110c74d</sys_scope>
+        <sys_update_name>sys_wizard_answer_5c4b848d4f2b2200995992918110c790</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-12-05 12:54:24</sys_updated_on>
+        <table/>
+        <target_url>x_snc_visitor_log_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

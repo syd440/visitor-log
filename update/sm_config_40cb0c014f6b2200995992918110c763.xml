@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sm_config">
+    <sm_config action="INSERT_OR_UPDATE">
+        <accept_reject>false</accept_reject>
+        <active>true</active>
+        <admin_role display_value="x_snc_visitor_log_admin" name="x_snc_visitor_log_admin">a94b088d4f2b2200995992918110c7d2</admin_role>
+        <agent_role display_value="x_snc_visitor_log_agent" name="x_snc_visitor_log_agent">e94b088d4f2b2200995992918110c7d6</agent_role>
+        <app_name>visitor_log</app_name>
+        <approval>true</approval>
+        <approval_workflow display_value="Approval Workflow for SM">da95b573d7322100bbc783e80e610360</approval_workflow>
+        <approver_role display_value="x_snc_visitor_log_approver_user" name="x_snc_visitor_log_approver_user">e14b088d4f2b2200995992918110c7d9</approver_role>
+        <associated_task_tables/>
+        <auto_dispatch>true</auto_dispatch>
+        <automate_state_flows>false</automate_state_flows>
+        <basic_role display_value="x_snc_visitor_log_basic" name="x_snc_visitor_log_basic">e14b088d4f2b2200995992918110c7de</basic_role>
+        <catalog display_value="Visitor Log Catalog">feab44014f6b2200995992918110c7cc</catalog>
+        <created_with_version>Istanbul: 11-18-2016_1553</created_with_version>
+        <disabled_processes/>
+        <dispatch_group_type display_value="visitor_log_dispatch">e55bcc8d4f2b2200995992918110c702</dispatch_group_type>
+        <dispatch_queue>false</dispatch_queue>
+        <dispatcher_role display_value="x_snc_visitor_log_dispatcher" name="x_snc_visitor_log_dispatcher">294b088d4f2b2200995992918110c7ed</dispatcher_role>
+        <follow_the_sun_priority>{value:,type:,display:}</follow_the_sun_priority>
+        <geolocation_maps>false</geolocation_maps>
+        <inbound_email>false</inbound_email>
+        <initiator_role display_value="x_snc_visitor_log_initiator" name="x_snc_visitor_log_initiator">f14b088d4f2b2200995992918110c7f0</initiator_role>
+        <kbase display_value="Visitor Log Knowledge">07ab84014f6b2200995992918110c73a</kbase>
+        <knowledge_base>true</knowledge_base>
+        <limit_by_location>true</limit_by_location>
+        <main_model_category display_value="Visitor Log Request Template">de8b08cd4f2b2200995992918110c756</main_model_category>
+        <main_model_table>x_snc_visitor_log_request_template</main_model_table>
+        <main_state_flow_table>x_snc_visitor_log_sf_request</main_state_flow_table>
+        <main_table>x_snc_visitor_log_request</main_table>
+        <managed_docs>true</managed_docs>
+        <mandatory_work_notes>false</mandatory_work_notes>
+        <name>Visitor Log</name>
+        <part_requirement>false</part_requirement>
+        <pdf_order_summary>false</pdf_order_summary>
+        <property_prefix>x_snc_visitor_log</property_prefix>
+        <qualification>false</qualification>
+        <qualification_group_type/>
+        <qualifier_role/>
+        <read_role display_value="x_snc_visitor_log_read" name="x_snc_visitor_log_read">354b088d4f2b2200995992918110c7f5</read_role>
+        <request_dispatch_method>auto</request_dispatch_method>
+        <request_dispatch_workflow display_value="Request Assignment Workflow for SM">879cca02d7100200e5eb83e80e6103fc</request_dispatch_workflow>
+        <request_driven>false</request_driven>
+        <rollup_work_notes>false</rollup_work_notes>
+        <service_catalog>true</service_catalog>
+        <signature_capture>false</signature_capture>
+        <surveys/>
+        <sys_class_name>sm_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-12-05 12:56:34</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>40cb0c014f6b2200995992918110c763</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visitor Log</sys_name>
+        <sys_package display_value="Visitor Log" source="x_snc_visitor_log">ef3b8c4d4f2b2200995992918110c74d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Visitor Log">ef3b8c4d4f2b2200995992918110c74d</sys_scope>
+        <sys_update_name>sm_config_40cb0c014f6b2200995992918110c763</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-12-05 12:56:34</sys_updated_on>
+        <task_activities>false</task_activities>
+        <task_dispatch_method>auto</task_dispatch_method>
+        <task_dispatch_workflow display_value="Assignment Workflow for SM">e1865971d7132100bbc783e80e610365</task_dispatch_workflow>
+        <task_model_category display_value="Visitor Log Task Template">1a8b08cd4f2b2200995992918110c757</task_model_category>
+        <task_model_table>x_snc_visitor_log_task_template</task_model_table>
+        <task_state_flow_table>x_snc_visitor_log_sf_task</task_state_flow_table>
+        <task_table>x_snc_visitor_log_task</task_table>
+        <task_work_group_type/>
+        <templates_to_catalog>true</templates_to_catalog>
+        <track_travel>false</track_travel>
+        <use_consistent_assignment>false</use_consistent_assignment>
+        <use_follow_the_sun>true</use_follow_the_sun>
+        <use_location>true</use_location>
+        <use_schedule>false</use_schedule>
+        <use_sf>true</use_sf>
+        <use_skill>all</use_skill>
+        <use_timezone>true</use_timezone>
+        <user_created>true</user_created>
+        <vendor_group_type display_value="visitor_log_vendor">695bcc8d4f2b2200995992918110c702</vendor_group_type>
+        <work_group_type display_value="visitor_log">ad5bcc8d4f2b2200995992918110c701</work_group_type>
+    </sm_config>
+</record_update>

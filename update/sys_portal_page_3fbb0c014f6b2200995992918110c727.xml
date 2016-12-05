@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2016-12-05 13:04:51">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order>850</order>
+        <read_roles>x_snc_visitor_log_read</read_roles>
+        <roles>x_snc_visitor_log_admin</roles>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-12-05 12:56:32</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3fbb0c014f6b2200995992918110c727</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visitor Log Overview</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Visitor Log" source="x_snc_visitor_log">ef3b8c4d4f2b2200995992918110c74d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Visitor Log">ef3b8c4d4f2b2200995992918110c74d</sys_scope>
+        <sys_update_name>sys_portal_page_3fbb0c014f6b2200995992918110c727</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-12-05 12:56:32</sys_updated_on>
+        <title>Visitor Log Overview</title>
+        <user/>
+        <view>visitor_log_overview</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>1</offset>
+                <page display_value="Visitor Log Overview">3fbb0c014f6b2200995992918110c727</page>
+                <summary>Visitor Log Group Usage</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2016-12-05 12:56:32</sys_created_on>
+                <sys_id>33bb0c014f6b2200995992918110c729</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2016-12-05 12:56:32</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2016-12-05 12:56:32">33bb0c014f6b2200995992918110c729</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2016-12-05 12:56:32</sys_created_on>
+                        <sys_id>3bbb0c014f6b2200995992918110c72b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2016-12-05 12:56:32</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2016-12-05 12:56:32">33bb0c014f6b2200995992918110c729</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2016-12-05 12:56:32</sys_created_on>
+                        <sys_id>73bb0c014f6b2200995992918110c72a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2016-12-05 12:56:32</sys_updated_on>
+                        <value>Visitor Log Group Usage</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2016-12-05 12:56:32">33bb0c014f6b2200995992918110c729</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2016-12-05 12:56:32</sys_created_on>
+                        <sys_id>7fbb0c014f6b2200995992918110c72b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2016-12-05 12:56:32</sys_updated_on>
+                        <value>b7bb0c014f6b2200995992918110c713</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone999</dropzone>
+                <offset>0</offset>
+                <page display_value="Visitor Log Overview">3fbb0c014f6b2200995992918110c727</page>
+                <summary>Visitor Log Catalog Usage</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2016-12-05 12:56:33</sys_created_on>
+                <sys_id>3fbb0c014f6b2200995992918110c731</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2016-12-05 12:56:33</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2016-12-05 12:56:33">3fbb0c014f6b2200995992918110c731</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2016-12-05 12:56:33</sys_created_on>
+                        <sys_id>7fbb0c014f6b2200995992918110c732</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2016-12-05 12:56:33</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2016-12-05 12:56:33">3fbb0c014f6b2200995992918110c731</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2016-12-05 12:56:33</sys_created_on>
+                        <sys_id>b3bb0c014f6b2200995992918110c733</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2016-12-05 12:56:33</sys_updated_on>
+                        <value>6bbb0c014f6b2200995992918110c700</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2016-12-05 12:56:33">3fbb0c014f6b2200995992918110c731</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2016-12-05 12:56:33</sys_created_on>
+                        <sys_id>f3bb0c014f6b2200995992918110c732</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2016-12-05 12:56:33</sys_updated_on>
+                        <value>Visitor Log Catalog Usage</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>1</offset>
+                <page display_value="Visitor Log Overview">3fbb0c014f6b2200995992918110c727</page>
+                <summary>Visitor Log Tasks</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2016-12-05 12:56:33</sys_created_on>
+                <sys_id>77bb0c014f6b2200995992918110c72c</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2016-12-05 12:56:33</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2016-12-05 12:56:33">77bb0c014f6b2200995992918110c72c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2016-12-05 12:56:33</sys_created_on>
+                        <sys_id>3fbb0c014f6b2200995992918110c72c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2016-12-05 12:56:33</sys_updated_on>
+                        <value>Visitor Log Tasks</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2016-12-05 12:56:33">77bb0c014f6b2200995992918110c72c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2016-12-05 12:56:33</sys_created_on>
+                        <sys_id>b7bb0c014f6b2200995992918110c72d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2016-12-05 12:56:33</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2016-12-05 12:56:33">77bb0c014f6b2200995992918110c72c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2016-12-05 12:56:33</sys_created_on>
+                        <sys_id>fbbb0c014f6b2200995992918110c72d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2016-12-05 12:56:33</sys_updated_on>
+                        <value>3bbb0c014f6b2200995992918110c716</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="Visitor Log Overview">3fbb0c014f6b2200995992918110c727</page>
+                <summary>Visitor Log Requests</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2016-12-05 12:56:33</sys_created_on>
+                <sys_id>b3bb0c014f6b2200995992918110c72e</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2016-12-05 12:56:33</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2016-12-05 12:56:33">b3bb0c014f6b2200995992918110c72e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2016-12-05 12:56:33</sys_created_on>
+                        <sys_id>3bbb0c014f6b2200995992918110c72f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2016-12-05 12:56:33</sys_updated_on>
+                        <value>e7bbc8014f6b2200995992918110c7fd</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2016-12-05 12:56:33">b3bb0c014f6b2200995992918110c72e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2016-12-05 12:56:33</sys_created_on>
+                        <sys_id>7bbb0c014f6b2200995992918110c72e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2016-12-05 12:56:33</sys_updated_on>
+                        <value>Visitor Log Requests</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2016-12-05 12:56:33">b3bb0c014f6b2200995992918110c72e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2016-12-05 12:56:33</sys_created_on>
+                        <sys_id>f3bb0c014f6b2200995992918110c72f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2016-12-05 12:56:33</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="Visitor Log Overview">3fbb0c014f6b2200995992918110c727</page>
+                <summary>Visitor Log Requests by Month</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2016-12-05 12:56:33</sys_created_on>
+                <sys_id>ffbb0c014f6b2200995992918110c72f</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2016-12-05 12:56:33</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2016-12-05 12:56:33">ffbb0c014f6b2200995992918110c72f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2016-12-05 12:56:33</sys_created_on>
+                        <sys_id>33bb0c014f6b2200995992918110c731</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2016-12-05 12:56:33</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2016-12-05 12:56:33">ffbb0c014f6b2200995992918110c72f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2016-12-05 12:56:33</sys_created_on>
+                        <sys_id>77bb0c014f6b2200995992918110c731</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2016-12-05 12:56:33</sys_updated_on>
+                        <value>6fbb0c014f6b2200995992918110c706</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2016-12-05 12:56:33">ffbb0c014f6b2200995992918110c72f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2016-12-05 12:56:33</sys_created_on>
+                        <sys_id>b7bb0c014f6b2200995992918110c730</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2016-12-05 12:56:33</sys_updated_on>
+                        <value>Visitor Log Requests by Month</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

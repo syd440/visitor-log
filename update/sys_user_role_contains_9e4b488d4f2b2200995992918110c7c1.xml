@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="rest_service" name="rest_service">3dfd67229f22110041a496fcc67fcf6c</contains>
+        <role display_value="x_snc_visitor_log_mid" name="x_snc_visitor_log_mid">f94b088d4f2b2200995992918110c7f2</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-12-05 12:54:32</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>9e4b488d4f2b2200995992918110c7c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>rest_service.x_snc_visitor_log_mid</sys_name>
+        <sys_package display_value="Visitor Log" source="x_snc_visitor_log">ef3b8c4d4f2b2200995992918110c74d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Visitor Log">ef3b8c4d4f2b2200995992918110c74d</sys_scope>
+        <sys_update_name>sys_user_role_contains_9e4b488d4f2b2200995992918110c7c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-12-05 12:54:32</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

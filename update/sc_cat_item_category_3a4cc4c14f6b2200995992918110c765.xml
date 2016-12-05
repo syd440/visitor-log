@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="New Visitor">053c00c14f6b2200995992918110c779</sc_cat_item>
+        <sc_category display_value="Default Category">72ab44014f6b2200995992918110c7ee</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-12-05 12:58:56</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>3a4cc4c14f6b2200995992918110c765</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default Category.New Visitor</sys_name>
+        <sys_package display_value="Visitor Log" source="x_snc_visitor_log">ef3b8c4d4f2b2200995992918110c74d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Visitor Log">ef3b8c4d4f2b2200995992918110c74d</sys_scope>
+        <sys_update_name>sc_cat_item_category_3a4cc4c14f6b2200995992918110c765</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-12-05 12:58:56</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

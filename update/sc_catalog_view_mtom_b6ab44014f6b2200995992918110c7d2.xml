@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Visitor Log Catalog">feab44014f6b2200995992918110c7cc</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-12-05 12:56:12</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b6ab44014f6b2200995992918110c7d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visitor Log Catalog.catalog_visitor_log_catalog</sys_name>
+        <sys_package display_value="Visitor Log" source="x_snc_visitor_log">ef3b8c4d4f2b2200995992918110c74d</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_visitor_log_catalog">f2ab44014f6b2200995992918110c7d1</sys_portal_page>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Visitor Log">ef3b8c4d4f2b2200995992918110c74d</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_b6ab44014f6b2200995992918110c7d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-12-05 12:56:12</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

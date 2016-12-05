@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>fccb4c014f6b2200995992918110c739</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sm_m2m_group_dependency">
+    <sm_m2m_group_dependency action="INSERT_OR_UPDATE">
+        <assignment_group display_value="Visitor Log Assignment" name="Visitor Log Assignment">2d5bcc8d4f2b2200995992918110c702</assignment_group>
+        <dispatch_group display_value="Visitor Log Dispatchers" name="Visitor Log Dispatchers">6d5bcc8d4f2b2200995992918110c70a</dispatch_group>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-12-05 12:56:37</sys_created_on>
+        <sys_id>fccb4c014f6b2200995992918110c739</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-12-05 12:56:37</sys_updated_on>
+    </sm_m2m_group_dependency>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-12-05 12:56:49</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>b3cb40414f6b2200995992918110c709</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2016-12-05 12:56:37</sys_name>
+        <sys_package display_value="Visitor Log" source="x_snc_visitor_log">ef3b8c4d4f2b2200995992918110c74d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Visitor Log">ef3b8c4d4f2b2200995992918110c74d</sys_scope>
+        <sys_update_name>sys_metadata_link_b3cb40414f6b2200995992918110c709</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-12-05 12:56:49</sys_updated_on>
+        <tablename>sm_m2m_group_dependency</tablename>
+    </sys_metadata_link>
+</record_update>

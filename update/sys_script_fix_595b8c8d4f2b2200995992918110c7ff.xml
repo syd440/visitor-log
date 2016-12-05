@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <before>false</before>
+        <description>Automatically builds state flow start and end states</description>
+        <flush_cache>false</flush_cache>
+        <name>Visitor Log State Flow Builder</name>
+        <run_once>false</run_once>
+        <script><![CDATA[(new global.StateFlow()).rebuildFlows("x_snc_visitor_log_request");
+(new global.StateFlow()).rebuildFlows("x_snc_visitor_log_task");]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-12-05 12:54:45</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>595b8c8d4f2b2200995992918110c7ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visitor Log State Flow Builder</sys_name>
+        <sys_package display_value="Visitor Log" source="x_snc_visitor_log">ef3b8c4d4f2b2200995992918110c74d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Visitor Log">ef3b8c4d4f2b2200995992918110c74d</sys_scope>
+        <sys_update_name>sys_script_fix_595b8c8d4f2b2200995992918110c7ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-12-05 12:54:45</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>
