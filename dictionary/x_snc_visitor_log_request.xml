@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="sm_order" label="Visitor Log Request" max_length="40" name="x_snc_visitor_log_request" type="collection"/>
+    <element audit="true" extends="sm_order" label="Visitor Log Request" max_length="40" name="x_snc_visitor_log_request" type="collection">
+        <element label="Host" mandatory="true" max_length="32" name="host" reference="sys_user" type="reference"/>
+    </element>
 </database>
